@@ -1,0 +1,563 @@
+{
+  "streams": {
+    "science": {
+      "name": "Science",
+      "compulsory": [
+        "English",
+        "Nepali",
+        "Social Studies and Life Skills Education"
+      ],
+      "electives": [
+        "Mathematics",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Computer Science"
+      ],
+      "subjects": {
+        "english": {
+          "name": "English",
+          "grade11": [
+            "Reading and Writing Skills",
+            "Grammar",
+            "Literature",
+            "Language Functions"
+          ],
+          "grade12": [
+            "Reading and Writing Skills",
+            "Grammar",
+            "Literature",
+            "Language Functions"
+          ],
+          "grade12_resources": {
+            "books": [
+              "English for Grade 12 (NEB Approved)",
+              "English Grammar in Use by Raymond Murphy",
+              "Literature Reader for Grade 12"
+            ],
+            "important_notes": [
+              "Focus on comprehension passages and essay writing",
+              "Practice grammar exercises regularly",
+              "Study literary devices and figures of speech",
+              "Improve vocabulary through reading"
+            ],
+            "answers": "Practice with past question papers and model answers from NEB website"
+          }
+        },
+        "nepali": {
+          "name": "Nepali",
+          "grade11": [
+            "व्याकरण (Grammar)",
+            "साहित्य (Literature)",
+            "लेखन कौशल (Writing Skills)",
+            "भाषा प्रयोग (Language Use)"
+          ],
+          "grade12": [
+            "व्याकरण (Grammar)",
+            "साहित्य (Literature)",
+            "लेखन कौशल (Writing Skills)",
+            "भाषा प्रयोग (Language Use)"
+          ],
+          "grade12_resources": {
+            "books": [
+              "Nepali Grade 12 (NEB Approved)",
+              "Nepali Grammar Book",
+              "Nepali Literature Collection"
+            ],
+            "important_notes": [
+              "Master Nepali grammar rules",
+              "Study classical and modern Nepali literature",
+              "Practice essay writing in Nepali",
+              "Learn common phrases and idioms"
+            ],
+            "answers": "Refer to NEB model questions and past papers"
+          }
+        },
+        "social_studies": {
+          "name": "Social Studies and Life Skills Education",
+          "grade11": [
+            "Introduction to Sociology",
+            "Culture and Society",
+            "Social Institutions",
+            "Life Skills"
+          ],
+          "grade12": [
+            "Social Problems and Issues",
+            "Population and Environment",
+            "Human Rights",
+            "Life Skills"
+          ],
+          "grade12_resources": {
+            "books": [
+              "Social Studies Grade 12 (NEB Approved)",
+              "Sociology: Understanding Society",
+              "Human Rights and International Law"
+            ],
+            "important_notes": [
+              "Understand key sociological concepts",
+              "Study population dynamics and environmental issues",
+              "Learn about human rights and their importance",
+              "Develop life skills for personal and social development"
+            ],
+            "answers": "Review NEB syllabus and practice with sample questions"
+          }
+        },
+        "mathematics": {
+          "name": "Mathematics",
+          "grade11": [
+            "Sets and Functions",
+            "Algebra",
+            "Trigonometry",
+            "Coordinate Geometry",
+            "Vectors",
+            "Statistics and Probability",
+            "Calculus"
+          ],
+          "grade12": [
+            "Relations and Functions",
+            "Algebra",
+            "Trigonometry",
+            "Coordinate Geometry",
+            "Vectors",
+            "Statistics and Probability",
+            "Calculus"
+          ],
+          "grade12_resources": {
+            "books": [
+              "Mathematics Grade 12 (NEB Approved)",
+              "Calculus by James Stewart",
+              "Linear Algebra and Its Applications",
+              "Statistics for Engineers"
+            ],
+            "important_notes": [
+              "Master differentiation and integration techniques",
+              "Understand vectors and 3D geometry",
+              "Practice probability distributions",
+              "Solve complex algebraic equations",
+              "Apply calculus to real-world problems"
+            ],
+            "answers": "Use solution manuals like RD Sharma or refer to NEB answer keys"
+          }
+        },
+        "physics": {
+          "name": "Physics",
+          "grade11": [
+            "Physical World and Measurement",
+            "Kinematics",
+            "Laws of Motion",
+            "Work, Energy and Power",
+            "Motion of System of Particles and Rigid Body",
+            "Gravitation",
+            "Properties of Bulk Matter",
+            "Thermodynamics",
+            "Behaviour of Perfect Gas and Kinetic Theory",
+            "Oscillations and Waves"
+          ],
+          "grade12": [
+            "Electrostatics",
+            "Current Electricity",
+            "Magnetic Effects of Current and Magnetism",
+            "Electromagnetic Induction and Alternating Currents",
+            "Electromagnetic Waves",
+            "Optics",
+            "Dual Nature of Matter and Radiation",
+            "Atoms and Nuclei",
+            "Electronic Devices",
+            "Communication Systems"
+          ],
+          "grade12_resources": {
+            "books": [
+              "Physics Grade 12 (NEB Approved)",
+              "Concepts of Physics by HC Verma",
+              "University Physics by Young and Freedman",
+              "Fundamentals of Physics by Halliday, Resnick and Walker"
+            ],
+            "important_notes": [
+              "Understand electrostatics and electric fields",
+              "Master circuit analysis and magnetism",
+              "Study wave optics and interference",
+              "Learn about quantum mechanics basics",
+              "Practice numerical problems regularly"
+            ],
+            "answers": "Refer to HC Verma solutions or NEB model answers"
+          }
+        },
+        "chemistry": {
+          "name": "Chemistry",
+          "grade11": [
+            "Some Basic Concepts of Chemistry",
+            "Structure of Atom",
+            "Classification of Elements and Periodicity in Properties",
+            "Chemical Bonding and Molecular Structure",
+            "States of Matter: Gases and Liquids",
+            "Thermodynamics",
+            "Equilibrium",
+            "Redox Reactions",
+            "Hydrogen",
+            "s-Block Elements (Alkali and Alkaline earth metals)",
+            "Some p-Block Elements",
+            "Organic Chemistry: Some Basic Principles and Techniques",
+            "Hydrocarbons",
+            "Environmental Chemistry"
+          ],
+          "grade12": [
+            "The Solid State",
+            "Solutions",
+            "Electrochemistry",
+            "Chemical Kinetics",
+            "Surface Chemistry",
+            "General Principles and Processes of Isolation of Elements",
+            "The p-Block Elements",
+            "The d-and f-Block Elements",
+            "Coordination Compounds",
+            "Haloalkanes and Haloarenes",
+            "Alcohols, Phenols and Ethers",
+            "Aldehydes, Ketones and Carboxylic Acids",
+            "Organic Compounds Containing Nitrogen",
+            "Biomolecules",
+            "Polymers",
+            "Chemistry in Everyday Life"
+          ],
+          "grade12_resources": {
+            "books": [
+              "Chemistry Grade 12 (NEB Approved)",
+              "Physical Chemistry by OP Tandon",
+              "Organic Chemistry by Morrison and Boyd",
+              "Inorganic Chemistry by JD Lee"
+            ],
+            "important_notes": [
+              "Master chemical equilibrium and electrochemistry",
+              "Understand organic reaction mechanisms",
+              "Study coordination chemistry and d-block elements",
+              "Learn about biomolecules and polymers",
+              "Practice balancing equations and stoichiometry"
+            ],
+            "answers": "Use solution books like MS Chauhan for organic chemistry"
+          }
+        },
+        "biology": {
+          "name": "Biology",
+          "grade11": [
+            "Biology and Its Branches",
+            "Cell Structure and Function",
+            "Biological Molecules",
+            "Enzymes",
+            "Bioenergetics",
+            "Cell Cycle",
+            "Photosynthesis",
+            "Respiration",
+            "Plant Physiology",
+            "Human Physiology",
+            "Reproduction",
+            "Growth and Development",
+            "Ecology and Environment"
+          ],
+          "grade12": [
+            "Reproduction",
+            "Genetics and Evolution",
+            "Biology and Human Welfare",
+            "Biotechnology and Its Applications",
+            "Ecology and Environment"
+          ],
+          "grade12_resources": {
+            "books": [
+              "Biology Grade 12 (NEB Approved)",
+              "Biology by Campbell and Reece",
+              "Molecular Biology of the Gene",
+              "Ecology: Concepts and Applications"
+            ],
+            "important_notes": [
+              "Understand genetics and inheritance patterns",
+              "Study biotechnology applications",
+              "Learn about human reproduction and development",
+              "Master ecological concepts and biodiversity",
+              "Focus on human health and diseases"
+            ],
+            "answers": "Refer to NEB biology question banks and model answers"
+          }
+        },
+        "computer_science": {
+          "name": "Computer Science",
+          "grade11": [
+            "Computer System",
+            "Computer Networks",
+            "Web Technology",
+            "Programming in C",
+            "Database Management System"
+          ],
+          "grade12": [
+            "Data Structures and Algorithms",
+            "Object Oriented Programming",
+            "Web Technology II",
+            "System Analysis and Design",
+            "Multimedia Technology"
+          ],
+          "grade12_resources": {
+            "books": [
+              "Computer Science Grade 12 (NEB Approved)",
+              "Data Structures and Algorithms in C++ by Adam Drozdek",
+              "Object-Oriented Programming with C++ by E Balagurusamy",
+              "Database System Concepts by Silberschatz"
+            ],
+            "important_notes": [
+              "Master data structures: arrays, linked lists, stacks, queues, trees",
+              "Learn OOP concepts: classes, inheritance, polymorphism",
+              "Understand algorithms: sorting, searching, complexity analysis",
+              "Study web technologies: HTML, CSS, JavaScript, PHP",
+              "Practice programming problems regularly"
+            ],
+            "answers": "Use online coding platforms like LeetCode, HackerRank for practice"
+          }
+        }
+      }
+    },
+    "management": {
+      "name": "Management",
+      "compulsory": [
+        "English",
+        "Nepali",
+        "Social Studies and Life Skills Education"
+      ],
+      "electives": [
+        "Accountancy",
+        "Economics",
+        "Business Studies",
+        "Business Mathematics",
+        "Computer Science",
+        "Marketing",
+        "Hotel Management",
+        "Travel and Tourism"
+      ],
+      "subjects": {
+        "accountancy": {
+          "name": "Accountancy",
+          "grade11": [
+            "Introduction to Accounting",
+            "Accounting for Not-for-Profit Organizations",
+            "Accounting for Partnership Firms",
+            "Reconstitution of Partnership",
+            "Accounting for Share Capital",
+            "Issue and Redemption of Debentures"
+          ],
+          "grade12": [
+            "Accounting for Not-for-Profit Organizations",
+            "Accounting for Partnership Firms",
+            "Reconstitution of Partnership",
+            "Accounting for Share Capital and Debentures",
+            "Analysis of Financial Statements",
+            "Cash Flow Statement"
+          ],
+          "grade12_resources": {
+            "books": [
+              "Accountancy Grade 12 (NEB Approved)",
+              "Financial Accounting by T.S. Grewal",
+              "Advanced Accountancy by M.C. Shukla"
+            ],
+            "important_notes": [
+              "Master partnership accounting and reconstitution",
+              "Understand share capital and debentures",
+              "Learn financial statement analysis",
+              "Practice cash flow statements",
+              "Study accounting standards and principles"
+            ],
+            "answers": "Refer to T.S. Grewal solutions and NEB model questions"
+          }
+        },
+        "economics": {
+          "name": "Economics",
+          "grade11": [
+            "Introduction to Economics",
+            "Microeconomics",
+            "Macroeconomics",
+            "Development Economics"
+          ],
+          "grade12": [
+            "Introduction to Economics",
+            "Theory of Consumer Behaviour",
+            "Theory of Firm and Market Structure",
+            "National Income",
+            "Money and Banking",
+            "Government Budget and Taxation",
+            "International Trade",
+            "Economic Development and Planning"
+          ],
+          "grade12_resources": {
+            "books": [
+              "Economics Grade 12 (NEB Approved)",
+              "Microeconomics by N. Gregory Mankiw",
+              "Macroeconomics by Olivier Blanchard",
+              "Indian Economy by Ramesh Singh (adapted for Nepal)"
+            ],
+            "important_notes": [
+              "Understand demand, supply, and market equilibrium",
+              "Study national income accounting",
+              "Learn about monetary and fiscal policy",
+              "Master international trade concepts",
+              "Focus on economic development theories"
+            ],
+            "answers": "Practice with NEB economics question papers and model answers"
+          }
+        },
+        "business_studies": {
+          "name": "Business Studies",
+          "grade11": [
+            "Nature and Purpose of Business",
+            "Forms of Business Organization",
+            "Private, Public and Global Enterprises",
+            "Business Services",
+            "Emerging Modes of Business",
+            "Social Responsibility of Business and Business Ethics",
+            "Formation of a Company",
+            "Sources of Business Finance",
+            "Small Business",
+            "Internal Trade",
+            "International Business",
+            "Project Work"
+          ],
+          "grade12": [
+            "Nature and Significance of Management",
+            "Principles of Management",
+            "Business Environment",
+            "Planning",
+            "Organising",
+            "Staffing",
+            "Directing",
+            "Controlling",
+            "Financial Management",
+            "Financial Markets",
+            "Marketing Management",
+            "Consumer Protection",
+            "Project Work"
+          ],
+          "grade12_resources": {
+            "books": [
+              "Business Studies Grade 12 (NEB Approved)",
+              "Business Studies by Poonam Gandhi",
+              "Principles of Management by Koontz and O'Donnell"
+            ],
+            "important_notes": [
+              "Master management functions: planning, organizing, staffing, directing, controlling",
+              "Understand business environment and its impact",
+              "Learn financial management and markets",
+              "Study marketing concepts and consumer protection",
+              "Focus on business ethics and social responsibility"
+            ],
+            "answers": "Refer to CBSE business studies solutions (adapted) and NEB guides"
+          }
+        }
+      }
+    },
+    "humanities": {
+      "name": "Humanities",
+      "compulsory": [
+        "English",
+        "Nepali",
+        "Social Studies and Life Skills Education"
+      ],
+      "electives": [
+        "History",
+        "Geography",
+        "Political Science",
+        "Sociology",
+        "Psychology",
+        "Mass Communication",
+        "Population Studies",
+        "Philosophy",
+        "Linguistics",
+        "Anthropology"
+      ],
+      "subjects": {
+        "history": {
+          "name": "History",
+          "grade11": [
+            "Introduction to History",
+            "Ancient Civilizations",
+            "Medieval World",
+            "Early Modern World",
+            "Modern World"
+          ],
+          "grade12": [
+            "World History",
+            "History of Nepal",
+            "Contemporary World Issues"
+          ],
+          "grade12_resources": {
+            "books": [
+              "History Grade 12 (NEB Approved)",
+              "A History of the World by J.M. Roberts",
+              "History of Nepal by Chittaranjan Nepali"
+            ],
+            "important_notes": [
+              "Study major world historical events and periods",
+              "Understand Nepali history and unification",
+              "Learn about contemporary global issues",
+              "Focus on historical analysis and interpretation",
+              "Practice timeline creation and event sequencing"
+            ],
+            "answers": "Review NEB history question banks and past papers"
+          }
+        },
+        "geography": {
+          "name": "Geography",
+          "grade11": [
+            "Introduction to Geography",
+            "Physical Geography",
+            "Human Geography",
+            "Economic Geography"
+          ],
+          "grade12": [
+            "Physical Geography",
+            "Human Geography",
+            "Economic Geography",
+            "Environmental Geography"
+          ],
+          "grade12_resources": {
+            "books": [
+              "Geography Grade 12 (NEB Approved)",
+              "Physical Geography by Savindra Singh",
+              "Human Geography by Majid Husain"
+            ],
+            "important_notes": [
+              "Master physical geography: landforms, climate, soils",
+              "Understand population and settlement patterns",
+              "Study economic activities and resources",
+              "Learn environmental issues and conservation",
+              "Practice map reading and interpretation"
+            ],
+            "answers": "Use NEB geography model questions and solutions"
+          }
+        },
+        "political_science": {
+          "name": "Political Science",
+          "grade11": [
+            "Introduction to Political Science",
+            "Constitution and Federalism",
+            "Political Parties and Pressure Groups",
+            "International Relations"
+          ],
+          "grade12": [
+            "Political Theory",
+            "Government and Politics",
+            "International Relations",
+            "Contemporary Political Issues"
+          ],
+          "grade12_resources": {
+            "books": [
+              "Political Science Grade 12 (NEB Approved)",
+              "Political Theory by O.P. Gauba",
+              "International Relations by Peu Ghosh"
+            ],
+            "important_notes": [
+              "Study political theories and ideologies",
+              "Understand government structures and functions",
+              "Learn international relations concepts",
+              "Focus on contemporary political issues",
+              "Analyze political systems and processes"
+            ],
+            "answers": "Refer to NEB political science guides and past question solutions"
+          }
+        }
+      }
+    }
+  }
+}
